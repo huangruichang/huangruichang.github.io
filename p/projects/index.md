@@ -1,13 +1,20 @@
 # Projects that I work in
 
-## [silent](silent/index.md)
+## [Siyuan](siyuan/index.md)
 
-> Be a silent, static blog
+> An SNS backend framework, with Node and MySQL
 
-## [great](great.md)
+## [江门市社会保险基金风险智能管控及预警平台](jmsis/index.md)
 
-> Another task runner with js
+> 一个政府项目
 
-## [kid.js](kid.js.md)
+## [校园地带](school-area/index.md)
 
-> Another Browser-side Module Loader.
+> 校园交流平台，校内软件设计大赛作品.
+
+
+# Others made for fun
+
+## [CourseList](courselist/index.md)
+
+> 一个安卓小工具，从校园网抓取课表信息
