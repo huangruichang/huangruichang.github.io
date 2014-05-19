@@ -4,17 +4,17 @@
 
 > An SNS backend framework, with Node and MySQL
 
-## [��������ᱣ�ջ���������ܹܿؼ�Ԥ��ƽ̨](jmsis/index.md)
+## [江门市社会保险基金风险智能管控及预警平台](jmsis/index.md)
 
-> һ��������Ŀ
+> 一个政府项目
 
-## [У԰�ش�](school-area/index.md)
+## [校园地带](school-area/index.md)
 
-> У԰����ƽ̨��У��������ƴ�����Ʒ.
+> 校园交流平台，校内软件设计大赛作品.
 
 
 # Others made for fun
 
 ## [CourseList](courselist/index.md)
 
-> һ����׿С���ߣ���У԰��ץȡ�α���Ϣ
+> 一个安卓小工具，从校园网抓取课表信息
