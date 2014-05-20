@@ -8,18 +8,20 @@
 
 <img src="进入界面.jpg" width="300">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="进入界面.jpg" width="300">
+<img src="注册页.jpg" width="300">
 
-<img src="进入界面.jpg" width="300">
+<img src="个人主页.jpg" width="300">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="进入界面.jpg" width="300">
+<img src="地图模块页.jpg" width="300">
 
-## Note
+<img src="咖啡厅1.jpg" width="300">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="咖啡厅2.jpg" width="300">
 
-~~*Current style is heavily learnt from [Purelog](https://github.com/conis/Purelog)*~~
+<img src="许愿池.jpg" width="300">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="图书馆.jpg" width="300">
 
-*Current style is heavily learnt from [hyde](https://github.com/mdo/hyde) and Github*
+## 感言
 
-*Favicon is copied from [Underscore](https://github.com/jashkenas/underscore)*
-
-These may change in the future
+	这是在大学里和挚友亮爷一起完成的第一个比较完整的作品，感谢亮爷带我走上web开发的道路
