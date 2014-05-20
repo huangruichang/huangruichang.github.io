@@ -4,10 +4,10 @@
 
 ## Screenshots
 
-<img src="1.jpg" width="300">
+<img src="1.png" width="300">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="2.jpg" width="300">
+<img src="2.png" width="300">
 
-<img src="3.jpg" width="300">
+<img src="3.png" width="300">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="4.jpg" width="300">
+<img src="4.png" width="300">
