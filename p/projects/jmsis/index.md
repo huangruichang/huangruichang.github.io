@@ -1,6 +1,6 @@
-# У԰�ش�
+# 校园地带
 
-> ������An SNS backend framework, with Node and MySQL
+> 　　　An SNS backend framework, with Node and MySQL
 
 ## Screenshots
 
@@ -16,6 +16,6 @@
 
 <img src="6.jpg" width="500">
 
-## ����
+## 感言
 
-	�����ڴ�ѧ���ֿ����үһ����ɵĵ�һ���Ƚ���������Ʒ����л��ү��������web�����ĵ�·
+	这是在大学里和挚友亮爷一起完成的第一个比较完整的作品，感谢亮爷带我走上web开发的道路
