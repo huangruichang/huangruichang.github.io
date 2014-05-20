@@ -4,13 +4,13 @@
 
 ## Screenshots
 
-<img src="1.jpeg" width="180">
+<img src="1.jpeg" width="150">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="2.jpeg" width="180">
+<img src="2.jpeg" width="150">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="3.jpeg" width="180">
+<img src="3.jpeg" width="150">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="4.jpeg" width="180">
+<img src="4.jpeg" width="150">
 
 <img src="个人主页.jpg" width="300">
 &nbsp;&nbsp;&nbsp;&nbsp;
