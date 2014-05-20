@@ -9,7 +9,7 @@
 <img src="进入界面.jpg" width="300">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="进入界面.jpg" width="300">
-&nbsp;&nbsp;&nbsp;&nbsp;
+
 <img src="进入界面.jpg" width="300">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="进入界面.jpg" width="300">
