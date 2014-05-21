@@ -16,6 +16,12 @@
 
 <img src="6.jpg" width="500">
 
+
+## See for more:
+
+- `jmsis`: [jmsis](https://github.com/phrief/jmsis)
+
+
 ## 感言
 
 	在大二接下的项目，在柱哥(老师)的带领下完成了第一期

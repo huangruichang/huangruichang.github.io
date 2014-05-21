@@ -22,6 +22,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="图书馆.jpg" width="300">
 
+## See for more:
+
+- `xydd`: [xydd](https://github.com/phrief/xydd)
+
 ## 感言
 
 	这是在大学里和挚友亮爷一起完成的第一个比较完整的作品，感谢亮爷带我走上web开发的道路
