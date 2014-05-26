@@ -1,8 +1,8 @@
 # Something else
 
-## [ÎÒµÄ¼òÀú](resume/resume.md)
+## [æˆ‘çš„ç®€å†](resume/resume.md)
 
-## [ÀøÖ¾¸èÇú:Ã»Ê²Ã´²»Í¬](an encouragement song.md)
+## [åŠ±å¿—æ­Œæ›²:æ²¡ä»€ä¹ˆä¸åŒ](an encouragement song.md)
 
 > inspire me again and again
 
