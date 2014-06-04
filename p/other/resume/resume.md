@@ -20,7 +20,7 @@
       <td>QQ</td><td>532079207</td>
     </tr>
     <tr>
-      <td>个人博客</td><td><a href="http://huangruichang.github.io" target="_blank">fritx.github.io/blog</a></td>
+      <td>个人博客</td><td><a href="http://huangruichang.github.io" target="_blank">huangruichang.github.io</a></td>
     </tr>
     <tr>
       <td>性别</td><td>男</td><td>出生年月</td><td>1991-12</td>
