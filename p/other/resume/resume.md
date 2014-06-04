@@ -33,3 +33,19 @@
     </tr>
   </tbody><tbody>
 </tbody></table>
+
+##期望工作
+<table>
+	<thead>
+		<tr style="text-align:center">地点</tr>
+		<tr style="text-align:center">职型</tr>
+		<tr style="text-align:center">职位</tr>
+		<tr style="text-align:center">空闲时间</tr>
+	</thead>
+	<tbody>
+		<td style="text-align:center">深圳、广州</td>
+		<td style="text-align:center">实习</td>
+		<td style="text-align:center">Java后台</td>
+		<td style="text-align:center">暑假、大四全年</td>
+	</tbody>
+</table>
