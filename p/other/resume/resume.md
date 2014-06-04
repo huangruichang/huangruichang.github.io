@@ -37,10 +37,12 @@
 ##期望工作
 <table>
 	<thead>
-		<tr style="text-align:center">地点</tr>
-		<tr style="text-align:center">职型</tr>
-		<tr style="text-align:center">职位</tr>
-		<tr style="text-align:center">空闲时间</tr>
+		<tr>
+			<th style="text-align:center">地点</th>
+			<th style="text-align:center">职型</th>
+			<th style="text-align:center">职位</th>
+			<th style="text-align:center">空闲时间</th>
+		</tr>
 	</thead>
 	<tbody>
 		<td style="text-align:center">深圳、广州</td>
