@@ -63,9 +63,8 @@
 <ol>
 	<li>江门社保局内部系统前端源码 <a href="https://github.com/phrief/jmsis-public" target="_blank">phrief/jmsis-public</a></li>
 	<li>校友群后端源码/截图 <a href="https://github.com/node-fun/siyuan" target="_blank">node-fun/siyuan</a></li>
-	<li>校园地带源码<a href="https://github.com/phrief/xydd" target="_blank"></li>
-	<li>课表工具<a href="https://github.com/huangruichang/AndroidHttpClient3" target="_blank"></li>
-	<li>安卓贪吃蛇<a href="https://github.com/huangruichang/MrNom/tree/master/MrNom" target="_blank"></li>
-	<li>安卓贪吃蛇<a href="https://github.com/huangruichang/MrNom/tree/master/MrNom" target="_blank"></li>
-	<li>SuperJumper<a href="https://github.com/huangruichang/SuperJumper" target="_blank"></li>
+	<li>校园地带源码<a href="https://github.com/phrief/xydd" target="_blank">phrief/xydd</a></li>
+	<li>课表工具<a href="https://github.com/huangruichang/AndroidHttpClient3" target="_blank">huangruichang/AndroidHttpClient3</a></li>
+	<li>安卓贪吃蛇<a href="https://github.com/huangruichang/MrNom/tree/master/MrNom" target="_blank">huangruichang/MrNom</a></li>
+	<li>SuperJumper<a href="https://github.com/huangruichang/SuperJumper" target="_blank">huangruichang/SuperJumper</a></li>
 </ol>
