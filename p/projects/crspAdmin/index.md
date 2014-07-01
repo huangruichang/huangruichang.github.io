@@ -20,13 +20,9 @@
 
 <img src="8.png" width="500">
 
-<img src="9.png" width="500">
-
 <img src="10.png" width="500">
 
 <img src="11.png" width="500">
-
-<img src="12.png" width="500">
 
 <img src="13.png" width="500">
 
