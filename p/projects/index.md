@@ -18,3 +18,11 @@
 ## [CourseList](courselist/index.md)
 
 > 一个安卓小工具，从校园网抓取课表信息
+
+## [MrNom](MrNom/index.md)
+
+>安卓贪吃蛇
+
+## [SuperJumper](SuperJumper/index.md)
+
+>安卓仿`涂鸦跳跃`
