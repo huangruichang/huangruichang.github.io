@@ -67,5 +67,6 @@
 	<li>课表工具 <a href="https://github.com/huangruichang/AndroidHttpClient3" target="_blank">huangruichang/AndroidHttpClient3</a></li>
 	<li>安卓贪吃蛇 <a href="https://github.com/huangruichang/MrNom/tree/master/MrNom" target="_blank">huangruichang/MrNom</a></li>
 	<li>SuperJumper <a href="https://github.com/huangruichang/SuperJumper" target="_blank">huangruichang/SuperJumper</a></li>
+	<li>CRSP <a href="https://github.com/CRSP/CRSP" target="_blank">CRSP/CRSP</li>
 </ol>
 （备注: 该代码托管网站github.com国内访问较不稳定）

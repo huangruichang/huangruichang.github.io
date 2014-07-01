@@ -12,6 +12,14 @@
 
 > 校园交流平台，校内软件设计大赛作品.
 
+## [CRSP](CRSP/index.md)
+
+> 高校资源分享平台
+
+## [crspAdmin](crspAdmin/index.md)
+
+> 高校资源分享平台后台管理
+
 
 # Others made for fun
 
