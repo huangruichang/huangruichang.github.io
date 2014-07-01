@@ -35,12 +35,10 @@
 
 
 ## 亮点
-	<ol>
-		<li>基于Spring和Hibernate开发，代码清晰易于维护</li>
-		<li>使用SpringMVC搭建RESTful接口</li>
-		<li>测试驱动开发</li>
-		<li>大量使用注释，代码清晰简洁</li>
-	</ol>
+	1.基于Spring和Hibernate开发，代码清晰易于维护
+	2.使用SpringMVC搭建RESTful接口
+	3.测试驱动开发
+	4.大量使用注释，代码清晰简洁
 	
 ## 优化
 	仿照流行云盘，实现秒传功能。
