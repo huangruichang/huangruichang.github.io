@@ -4,4 +4,5 @@
 
 - [Projects](projects/index.md)
 - [About Me](aboutme.md)
+- [Techniques](techniques/index.md)
 - [Other](other/index.md)
