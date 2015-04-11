@@ -5,4 +5,5 @@
 - [Projects](projects/index.md)
 - [About Me](aboutme.md)
 - [Techniques](techniques/index.md)
+- [Funny] (funny/index.md)
 - [Other](other/index.md)
