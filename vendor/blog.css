@@ -110,7 +110,16 @@ blockquote {
   }
 }
 
+.huang-avatar {
+  border-radius: 100px;
+  border: 1px solid #666;
+  display: none;
+}
+
 @media (min-width: 990px) {
+  .huang-avatar {
+    display: inline;
+  }
   .sidebar {
     position: fixed;
     top: 0;
