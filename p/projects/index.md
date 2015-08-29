@@ -1,5 +1,11 @@
 # Projects that I work in
 
+## [md-editor](md-editor/index.md)
+> a desktop md-editor based on pagedown-for-coding and electron.
+
+## [git-seed](git-seed/index.md)
+> Git-seed is a code depository like [GitHub][1]
+
 ## [Siyuan](siyuan/index.md)
 
 > An SNS backend framework, with Node and MySQL
@@ -34,3 +40,6 @@
 ## [SuperJumper](SuperJumper/index.md)
 
 >安卓仿`涂鸦跳跃`
+
+
+  [1]: https://github.com

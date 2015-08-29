@@ -10,6 +10,8 @@
 
 - Java Web
 - Website Design (CSS/HTML)
+- nodejs
+- full-stack
 
 ## College Studying In
 
