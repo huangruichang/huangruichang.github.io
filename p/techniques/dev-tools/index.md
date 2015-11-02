@@ -1,70 +1,70 @@
-# ��������Թ���ʹ���ĵ� #
+# 浏览器调试功能使用心得 #
 
-## ǰ�� ##
-��д����ĵ�һ�쿪ʼ����������һֱ���������ǳ���Ա��ְҵ���ģ���Ϊǰ����Ա��������ˡ����������԰��������ڿ��������ж�λ��ҳ�е���ʾ�����硢���ܵȸ�ʽ���������⡣����������ķ��ٷ�չ��������������ϵĵ���������ҲԽ��ǿ�����г��õ��� FireFox �� Chrome �ĵ�������**����ʹ�� Chrome ������������������Եĳ��ù��ܵ�ʹ��**��
+## 前言 ##
+从写程序的第一天开始，调试器就一直伴随着我们程序员的职业生涯，作为前端人员，更是如此。调试器可以帮助我们在开发过程中定位网页中的显示、网络、性能等各式各样的问题。随着浏览器的飞速发展，依附在浏览器上的调试器功能也越发强大，其中常用的有 FireFox 和 Chrome 的调试器，**本文使用 Chrome 调试器介绍浏览器调试的常用功能的使用**。
 
-> F12 �� Ctrl + Shift + i ��ϼ��ɴ򿪵�������������ҳԪ�����ʼ�->���Ԫ�ء�
+> F12 和 Ctrl + Shift + i 组合键可打开调试器。或在网页元素上邮件->审查元素。
 
 ### Elements ###
-���ڲ鿴���༭ DOM �� CSS �Ĺ��ܡ�
-ͨ��ֱ���ڵ������ϸĶ� dom �� css���Բ��Ժ͵�����ʽ�ṹ��
-������ Elements ���ֱ�ӸĶ� dom �� css �Ե�����ʽ����������ʽ���Ƶ� css �� html �ļ��ϡ����һ�����Ͳ���Ҫÿ�ζ��ڱ༭����Ķ���Ȼ��ˢ����ҳ���������˿���Ч�ʺͿ������顣
+用于查看、编辑 DOM 和 CSS 的功能。
+通过直接在调试器上改动 dom 和 css，以测试和调整样式结构。
+可以在 Elements 面板直接改动 dom 和 css 以调整样式，把最终样式复制到 css 或 html 文件上。如此一来，就不需要每次都在编辑器里改动，然后刷新网页。大大提高了开发效率和开发体验。
 
 ![elements][1]
 
 
 ### Network ###
-���ڲ鿴��������Ĺ��ܡ�
-�������ǲ鿴�������Ӧ���ݣ�����ʱ�䣬����״̬�ȹ��ܡ�
+用于查看网络请求的功能。
+基本涵盖查看请求和相应内容，请求时间，请求状态等功能。
 ![network-1][2]
 
-���һ�����󣬾Ϳ��Դ��������ϸ��Ϣ�����ĸ� tab���ֱ��� Headers��Preview��Response��Timing��
-Headers���鿴����ͷ����Ӧͷ���� query string �ͱ�����Ϣ
-Preview��������Ӧ Content-Type Ԥ����Ӧ��Դ������Ӧ���ظ�ʽ�� image/jpeg����Ԥ����ʾΪһ��ͼƬ
-Response���� Preview ��ʹ�û���һ������ͬ����Կ�[����][3]
-Timing������ʱ��
+点击一个请求，就可以打开请求的详细信息，有四个 tab，分别是 Headers、Preview、Response、Timing。
+Headers：查看请求头、响应头、和 query string 和表单信息
+Preview：按照响应 Content-Type 预览响应资源。如响应返回格式是 image/jpeg，则预览显示为一张图片
+Response：与 Preview 的使用基本一样，不同点可以看[这里][3]
+Timing：请求时间
 ![network-2][4]
 
 ### Sources ###
-�˹��ܿ��Ի�ȡ��Ӧ�� js �� css �ļ����б������������֡�
-�ɴ��б�����Դ� js �ļ����������ļ��д�ϵ���е��Դ��롣
-**ͨ�� Ctrl + O �������������Կ��������� js �ļ����е��ԡ�**
+此功能可以获取响应的 js 和 css 文件。列表按照域名划分。
+可从列表里可以打开 js 文件，并且在文件中打断点进行调试代码。
+**通过 Ctrl + O 打开搜索栏，可以快速搜索出 js 文件进行调试。**
 ![sources][5]
 
 ### Timeline ###
-Timeline����¼�ͷ�����webӦ������ʱ�����л����������о��Ͳ���������������;����
-ͨ����״ͼ��ʱ��ͼ�������ܷ�������λ��ʱ���Ĳ�����
-�ı�ѡ�����ߵ������������ֱ�Ӷ�λ���ض�����������ܡ�
-����ͼչʾҳ��ռ���ڴ�仯��
-���Ͻ�����Ͱͼ����ǿ�� V8 ����һ�� gc��
+Timeline面板记录和分析了web应用运行时的所有活动情况，这是研究和查找性能问题的最佳途径。
+通过柱状图和时序图进行性能分析，定位耗时长的操作。
+改变选区或者点击柱条，可以直接定位到特定区间分析性能。
+折线图展示页面占用内存变化。
+左上角垃圾桶图表会强制 V8 进行一次 gc。
 ![timeline][6]
 
 ### Profiles ###
-ʱ����(timeline)�������Ǵ������л��ѵ�ʱ�䣬���ǲ�û�а�������֪���������е�ʱ������ʲô�����ǿ�����һЩ�Ķ�Ȼ�󲻶ϵĲ�ÿ�δ������е�ʱ�䣬������äĿ�ġ�profiles�������ṩ�˸��õķ�����profiler����������Щ������ִ��ռ���˴󲿷�ʱ�䡣�������л���chrome�����߹��ߵġ�Profiles����ǩҳ��ʼ���ܲ��ԣ�����һ���ṩ���������͵����ܲ��ԡ�
+时间线(timeline)告诉我们代码运行花费的时间，但是并没有帮助我们知道代码运行的时候发生了什么。我们可以做一些改动然后不断的测每次代码运行的时间，但这是盲目的。profiles给我们提供了更好的方法。profiler告诉我们哪些函数的执行占用了大部分时间。让我们切换到chrome开发者工具的“Profiles”标签页开始性能测试，这里一共提供了三种类型的性能测试。
 
- 1.  javascript cpu ʹ�����
- 2. ��ջ����
- 3. ��ջ��¼
+ 1.  javascript cpu 使用情况
+ 2. 堆栈快照
+ 3. 堆栈记录
 
 ![profiles-0][7]
 
-#### javascript cpu ʹ����� ####
-�˹��ܿ���չ��ҳ��������� js �����Ƚ�����ʱ�䡣
+#### javascript cpu 使用情况 ####
+此功能可以展现页面中哪里的 js 函数比较消耗时间。
 ![profiles-1][8]
 
-#### ��ջ���� ####
-��ջ���տ���չʾ���ҳ���д� js ���� DOM �ڵ���ڴ���������
+#### 堆栈快照 ####
+堆栈快照可以展示你的页面中从 js 对象到 DOM 节点的内存分配情况。
 ![profiles-2][9]
 
-#### ��ջ��¼ ####
-��¼һ��ʱ���� js ������ڴ���䣬�Զ�λ�ڴ�й¶��![profiles-3][10]
+#### 堆栈记录 ####
+记录一段时间内 js 对象的内存分配，以定位内存泄露。![profiles-3][10]
 
 ### Resources ###
-Resources �������ڲ鿴��ҳ�ڱ��س־û������� cookie��Local Storage��Web SQL��IndexedDB �ȡ�
+Resources 功能用于查看网页在本地持久化，比如 cookie、Local Storage、Web SQL、IndexedDB 等。
 ![resources][11]
 
 ### Audits ###
-Audits ���ܿ������ҳ�沢�ҳ�ҳ���п����������ܵĵط��������Ƴ����õ� css��ʹ�� gzipѹ�����䣬�ϲ� js �ļ���ѹ�� cookie �Ƚ��飬�����ṩ������Ż�λ�ã��ļ���ӿڣ���
+Audits 功能可以审核页面并找出页面中可以提升性能的地方。比如移除无用的 css，使用 gzip压缩传输，合并 js 文件，压缩 cookie 等建议，并且提供具体的优化位置（文件或接口）。
 ![audit-1][12]
 
 ![audit-2][13]
