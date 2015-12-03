@@ -7,3 +7,11 @@
 ## [AngularJS应用身份认证的技巧](angularjs-auth/index.md)
 
 > 最普遍的身份认证方式就是用用户名（或 email）和密码做登陆操作。
+
+## [浏览器调试功能使用心得](dev-tools/index.md)
+
+> 调试器可以帮助我们在开发过程中定位网页中的显示、网络、性能等各式各样的问题。
+
+## [fiddler 使用](fiddler/index.md)
+
+> Fiddler 是一个 http 协议调试代理工具，它能够记录并检查你的电脑和互联网之间的 http 通讯。
