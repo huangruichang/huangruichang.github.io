@@ -1,4 +1,4 @@
-# My Talks About Techniques
+﻿# My Talks About Techniques
 
 ## [Promise 简介](promise/index.md)
 
@@ -15,3 +15,7 @@
 ## [fiddler 使用](fiddler/index.md)
 
 > Fiddler 是一个 http 协议调试代理工具，它能够记录并检查你的电脑和互联网之间的 http 通讯。
+
+## [我为什么推荐使用 git](why-git/index.md)
+
+> 大二时，因为要与小伙伴们在 github 上协同工作，所以 git 成为了我接触的第一个版本控制工具。
