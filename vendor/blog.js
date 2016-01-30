@@ -81,6 +81,7 @@
           }
 
           $el.show();
+          if (isMain) onMainRendered();
           if (callback) callback();
         });
       }
@@ -100,6 +101,12 @@
     return !url.indexOf('//') || !!~url.indexOf('://');
   }
 
+  function onMainRendered() {
+    mainTitle = $('#main-page')
+      .find('h1, h2, h3, h4, h5, h6')
+      .first().text();
+    document.title = mainTitle;
+  }
 
   config();
   start();
