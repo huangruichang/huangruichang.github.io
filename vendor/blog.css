@@ -146,3 +146,7 @@ div#main-page a {
   color: #000;
   text-decoration: none;
 }
+
+p {
+  word-wrap: break-word;
+}
