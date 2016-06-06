@@ -1,5 +1,9 @@
 ﻿# My Talks About Techniques
 
+## [VirtualBox: 为你的虚拟机配置静态 IP](virtualbox-static-ip/index.md)
+
+> 上年年末，我写了一篇关于在 VirutalBox 里使用 DHCP 配置虚拟机并保证这台机子一定会返回相同 IP 的 hack 的文章。
+
 ## [Promise 简介](promise/index.md)
 
 > Promise 是一种让异步代码书写起来更优雅的模式，能够让异步操作代码像同步代码那样书写并且阅读
