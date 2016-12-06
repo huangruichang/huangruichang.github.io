@@ -1,5 +1,9 @@
 ﻿# My Talks About Techniques
 
+## [浅谈直播技术](live-tv/index.md)
+
+> 上年通过朋友的安利，我入坑了《硅谷》这部互联网版BBOF。
+
 ## [VirtualBox: 为你的虚拟机配置静态 IP](virtualbox-static-ip/index.md)
 
 > 上年年末，我写了一篇关于在 VirutalBox 里使用 DHCP 配置虚拟机并保证这台机子一定会返回相同 IP 的 hack 的文章。
