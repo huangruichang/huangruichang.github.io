@@ -110,8 +110,8 @@ rtmp {
   [5]: http://baike.baidu.com/link?url=rPpbGvKjboAXlANtl8GMVvSPGFqSwGA30Z56LomAVoiynqPsxs1---Is8QHPzDOvxlzv-EzzLLV11XcrJZBJu_
   [6]: https://github.com/muaz-khan/RecordRTC
   [7]: https://github.com/huangruichang/live-tv
-  [8]: https://pic4.zhimg.com/v2-4c8025a9412068af66f58b7adecca66b_r.png
-  [9]: https://pic1.zhimg.com/v2-f2605074f5150734c72b4fe93e12268c_r.png
+  [8]: https://dn-coding-net-production-pp.qbox.me/102e70a9-cb68-450a-93aa-98b67f7d85db.png
+  [9]: https://dn-coding-net-production-pp.qbox.me/f3fda5ad-d2db-4028-8242-505221725fbc.png
   [10]: https://www.zhihu.com/question/22421708
   [11]: http://www.codeclip.com/3724.html
   [12]: https://github.com/taobao/nginx-book
