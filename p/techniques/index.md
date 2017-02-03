@@ -1,5 +1,9 @@
 ﻿# My Talks About Techniques
 
+## [前端性能 checklist 2017](front-end-performance-checklist/index.md)
+
+> 你已经开始使用渐进式启动了吗？React 和 Angular 里的 tree-shaking 和 code-splitting 呢？
+
 ## [浅谈直播技术](live-tv/index.md)
 
 > 上年通过朋友的安利，我入坑了《硅谷》这部互联网版BBOF。
