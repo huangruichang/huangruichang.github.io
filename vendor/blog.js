@@ -6,8 +6,9 @@
 
   var pageBase = 'p/';
   var pageExt = 'md';
+  var defaultPage = 'techniques/index';
   var mainPage = location.search.slice(1)
-    .replace(/&.*/, '') || 'projects/index';
+    .replace(/&.*/, '') || defaultPage;
   var mainTitle = '';
 
 
@@ -93,12 +94,41 @@
   }
 
   function start() {
+    var seg = location.search.slice(1)
+        .replace(/&.*$/g, '')
+
+    // fucking wechat again
+    // like /?graduation-thanks=
+    // or /?graduation-thanks=/ (SublimeServer)
+    seg = seg.replace(/=[\/\\]*$/, '')
+
+    // fucking wechat pending
+    // like /?from=singlemessage&isappinstalled=0
+    if (/=/.test(seg)) seg = null
+    mainPage = resolve(seg || defaultPage);
+
     load('#sidebar-page', 'sidebar');
     load('#main-page', mainPage, true);
   }
 
   function isAbsolute(url) {
     return !url.indexOf('//') || !!~url.indexOf('://');
+  }
+
+  function resolve(path) {
+    var segs = path.split('/');
+    var buf = [];
+    for (var i = 0; i < segs.length; i++) {
+      var seg = segs[i];
+      if (seg === '.') continue;
+      var last = buf[buf.length - 1];
+      if (seg === '..' && last && last !== '..') {
+        buf.pop();
+        continue;
+      }
+      buf.push(seg);
+    }
+    return buf.join('/') || '.';
   }
 
   function onMainRendered() {
