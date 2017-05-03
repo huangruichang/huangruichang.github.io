@@ -1,5 +1,9 @@
 ﻿# My Talks About Techniques
 
+## [FlappyLearning 源码笔记](flappy-learning/index.md)
+
+> 这个项目是通过神经网络算法和遗传算法去训练出一只可以持续飞行的 flappy bird，以展示机器学习的强大和魅力。
+
 ## [前端性能 checklist 2017](front-end-performance-checklist/index.md)
 
 > 你已经开始使用渐进式启动了吗？React 和 Angular 里的 tree-shaking 和 code-splitting 呢？
