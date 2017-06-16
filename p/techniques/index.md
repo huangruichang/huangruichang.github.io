@@ -1,5 +1,9 @@
 ﻿# My Talks About Techniques
 
+## [nodejs + mongodb + elasticsearch 实现简单的搜索功能](nodejs-mongodb-elasticsearch/index.md)
+
+> 使用 nodejs + mongodb + elasticsearch 实现简单的搜索功能
+
 ## [FlappyLearning 源码笔记](flappy-learning/index.md)
 
 > 这个项目是通过神经网络算法和遗传算法去训练出一只可以持续飞行的 flappy bird，以展示机器学习的强大和魅力。
