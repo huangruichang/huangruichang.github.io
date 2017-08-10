@@ -1,5 +1,9 @@
 ﻿# My Talks About Techniques
 
+## [浅谈数据库索引](db-index/index.md)
+
+> 组织需要我，我又变成了全干工程师。连表都要自己建，所以要复习复习数据库相关内容。
+
 ## [nodejs + mongodb + elasticsearch 实现简单的搜索功能](nodejs-mongodb-elasticsearch/index.md)
 
 > 使用 nodejs + mongodb + elasticsearch 实现简单的搜索功能
